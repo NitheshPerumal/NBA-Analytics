@@ -1,0 +1,31 @@
+Team,ELO
+Phoenix,1000.0
+Toronto,1000.0
+Boston,1000.0
+Portland,1000.0
+Indiana,1000.0
+Brooklyn,1000.0
+San Antonio,1000.0
+LA Clippers,1000.0
+Philadelphia,1000.0
+Chicago,1000.0
+Charlotte,1000.0
+Atlanta,1000.0
+Cleveland,1000.0
+Golden State,1000.0
+New York,1000.0
+Detroit,1000.0
+Minnesota,1000.0
+Oklahoma City,1000.0
+LA Lakers,1113.0839817871451
+Dallas,1000.0
+Milwaukee,1000.0
+Houston,1000.0
+Miami,886.916018212855
+Sacramento,1000.0
+Denver,1000.0
+Orlando,1000.0
+Memphis,1000.0
+Utah,1000.0
+New Orleans,1000.0
+Washington,1000.0
